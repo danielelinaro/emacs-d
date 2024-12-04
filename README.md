@@ -11,5 +11,5 @@ git clone https://github.com/gabrielelanaro/emacs-for-python.git
 
 - MATLAB:
 ```
-git clone https://git.code.sf.net/p/matlab-emacs/src
+git clone https://git.code.sf.net/p/matlab-emacs/src matlab
 ```
